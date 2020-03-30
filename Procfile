@@ -1,0 +1,1 @@
+web: gunucorn blog.wsgi:application
